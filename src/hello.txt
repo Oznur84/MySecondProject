@@ -3,3 +3,5 @@ Hello from Intellij
 Another line From GitHub
 
 With this line I Fixed Bug #1
+
+trail new email setup
